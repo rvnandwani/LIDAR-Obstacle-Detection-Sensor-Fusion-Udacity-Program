@@ -10,7 +10,7 @@ If you are facing trouble in running the code, I suggest you to refer [this](htt
 ![image](MarkdownFiles/Ray_Visualization_8Rays.png)
 
 2. Visualized point cloud data generated
-![image1](MarkdownFiles/Ray_Visualization_8Rays.png)
+![image1](MarkdownFiles/PCD_Visualization.png)
 
 3. Planer Segmentation using RANSAC
 ![image2](MarkdownFiles/Plane_Segmentation.png)
