@@ -19,3 +19,4 @@ If you are facing trouble in running the code, I suggest you to refer [this](htt
 ![image3](MarkdownFiles/BoundingBox.png)
 
 5. Streaming the point cloud files and then applying to all the frames as detected.
+![video](MarkdownFiles/Output.gif)
